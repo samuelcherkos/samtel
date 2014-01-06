@@ -1,0 +1,4 @@
+samtel
+======
+
+telephone number algorithem
